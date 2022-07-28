@@ -14,13 +14,13 @@
 <!--
 
 <p align="center"> 
-<img src="https://st.hreativ.com/new.png"></img>
+<img src="http://st.hreativ.com/new.png"></img>
 </p>
 
 -->
 
 <p align="center"> 
-<img src="https://st.hreativ.com/new.png"></img>
+<img src="http://st.hreativ.com/new.png"></img>
 </p>
 <p align="center">
   PLEASE REPORT BUGS OR IDEAS TO: bagusdevid / => https://www.instagram.com/uncle_gita
