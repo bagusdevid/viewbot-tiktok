@@ -20,7 +20,7 @@
 -->
 
 <p align="center"> 
-<img src="https://bagusdev.id/new.png"></img>
+<img src="https://hreatif.com/new.png"></img>
 </p>
 <p align="center">
   PLEASE REPORT BUGS OR IDEAS TO: bagusdevid / => https://www.instagram.com/uncle_gita
