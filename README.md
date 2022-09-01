@@ -14,7 +14,7 @@
 <!--
 
 <p align="center"> 
-<img src="https://bagusdev.id/new.png"></img>
+<img src="https://hreatif.com/new.png"></img>
 </p>
 
 -->
